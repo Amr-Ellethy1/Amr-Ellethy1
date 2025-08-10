@@ -1,72 +1,47 @@
-## Hello, World こんにちは
+# 👋 Hi, I'm Amr Ellethy
 
-<img src="https://x.tw93.fun/images/hi.gif" alt="Hi" width="20"/>  
-Hello! I am **Amr El-Laithy**, a programmer and a student at the Faculty of Computers and Information from Egypt.  
-I love web development, problem-solving, and discovering new technologies.  
-I enjoy programming with **JavaScript** and **Python**, and I also work with **Java** and **C++**.  
-I am currently working on building my projects on GitHub, learning advanced algorithms, and striving to contribute more to the **open-source** world. 🚀  
+**💻 Programmer | 📚 Student at Faculty of Computers & Information**  
 
 ---
 
-### Contact Me
-
-- **GitHub**: [github.com/Amr-Ellethy1](https://github.com/Amr-Ellethy1)  
-- **LinkedIn**: [amr-khalid-319554325](https://www.linkedin.com/in/amr-khalid-319554325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Email**: [amrellethy@outlook.sa](mailto:amrellethy@outlook.sa)  
+### 📫 Contact Me  
+- **GitHub:** [github.com/Amr-Ellethy1](https://github.com/Amr-Ellethy1)  
+- **LinkedIn:** [amr-khalid-319554325](https://www.linkedin.com/in/amr-khalid-319554325/)  
+- **Email:** [amrellethy@outlook.sa](mailto:amrellethy@outlook.sa)  
 
 ---
 
-### Projects & Updates
+<div align="center" width="50">
 
-<table width="960px">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<tr>
+![Profile Views](https://komarev.com/ghpvc/?username=Amr-Ellethy1&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmr-Ellethy1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![Telegram](https://img.shields.io/badge/AmrEllethy-grey?style=flat&logo=telegram)](https://t.me/YourTelegram)  
 
-<td valign="top" width="50%">
+</div>
 
-#### 🏊‍♂️ Weekly Development Breakdown
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg" alt="Weekly coding stats">
-</picture>
+## 🚀 Tools & Technologies I Use  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-</td>
-
-<td valign="top" width="50%">
-
-#### 🚀 Latest Projects
-
-<!-- recent_releases starts -->
-* <a href="#" target="_blank">Personal Portfolio Website 🌐</a> – 2025-08-04  
-* <a href="#" target="_blank">Python Automation Scripts ⚙️</a> – 2025-08-01  
-* <a href="#" target="_blank">JavaScript To-Do App ✅</a> – 2025-07-28  
-* <a href="#" target="_blank">C++ Competitive Programming Project 💻</a> – 2025-07-20  
-<!-- recent_releases ends -->
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top" width="50%">
-
-#### 📝 Recent Blog Posts  
-<!-- blog starts -->
-<!-- blog ends -->
-
-</td>
-
-<td valign="top" width="50%">
-
-#### 📅 Trend Weekly  
-<!-- weekly starts -->
-<!-- weekly ends -->
-
-</td>
-
-</tr>
-
-</table>
+```dart
+class AboutMe {
+  final String name = "Amr Ellethy";
+  final String role = "Programmer & CS Student";
+  final List<String> languages = ["C", "C++", "Python", "Java", "JavaScript", "HTML", "CSS", "SQL"];
+  final List<String> tools = ["VS Code", "Git", "Linux", "Figma"];
+}
