@@ -1,10 +1,10 @@
 ## Hello, World こんにちは
 
 <img src="https://x.tw93.fun/images/hi.gif" alt="Hi" width="20"/>  
-Hi! I’m **Amr El-Laithy**, a programmer and a student at the Faculty of Computers and Information from Egypt.  
-I’m passionate about **web development**, **problem-solving**, and discovering **new technologies**.  
-I enjoy coding in **JavaScript** and **Python**, and I also work with **Java** and **C++**.  
-Currently, I’m building my GitHub projects, learning advanced algorithms, and aiming to contribute more to the **open-source** community. 🚀  
+Hello! I am **Amr El-Laithy**, a programmer and a student at the Faculty of Computers and Information from Egypt.  
+I love web development, problem-solving, and discovering new technologies.  
+I enjoy programming with **JavaScript** and **Python**, and I also work with **Java** and **C++**.  
+I am currently working on building my projects on GitHub, learning advanced algorithms, and striving to contribute more to the **open-source** world. 🚀  
 
 ---
 
@@ -55,7 +55,7 @@ Currently, I’m building my GitHub projects, learning advanced algorithms, and 
 
 #### 📝 Recent Blog Posts  
 <!-- blog starts -->
-* Add links or titles to your blog posts here  
+* Add links or titles to your blog posts here if available  
 <!-- blog ends -->
 
 </td>
@@ -64,6 +64,15 @@ Currently, I’m building my GitHub projects, learning advanced algorithms, and 
 
 #### 📅 Trend Weekly  
 <!-- weekly starts -->
+* Add here if you publish weekly blog posts or summaries  
+<!-- weekly ends -->
+
+</td>
+
+</tr>
+
+</table>
+
 * Add here if you publish weekly summaries or newsletters  
 <!-- weekly ends -->
 
