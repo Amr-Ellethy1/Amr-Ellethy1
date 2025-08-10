@@ -1,11 +1,14 @@
 ## Hello, World こんにちは
 
 <img src="https://x.tw93.fun/images/hi.gif" alt="Hi" width="20"/>  
-مرحبًا! أنا **عمرو الليثي،** مبرمج وطالب في كلية الحاسبات والمعلومات من مصر. أحب تطوير الويب، حل المشاكل، واكتشاف التقنيات الجديدة. أستمتع بالبرمجة بـ **JavaScript** و**Python**، وأطوّع **Java** و**C++** أيضًا. أعمل الآن على بناء مشاريعي على GitHub، أتعلم خوارزميات متقدمة، وأسعى للمساهمة أكثر في عالم **مفتوح المصدر**. 🚀  
+Hi! I’m **Amr El-Laithy**, a programmer and a student at the Faculty of Computers and Information from Egypt.  
+I’m passionate about **web development**, **problem-solving**, and discovering **new technologies**.  
+I enjoy coding in **JavaScript** and **Python**, and I also work with **Java** and **C++**.  
+Currently, I’m building my GitHub projects, learning advanced algorithms, and aiming to contribute more to the **open-source** community. 🚀  
 
 ---
 
-###  تواصل معي
+### Contact Me
 
 - **GitHub**: [github.com/Amr-Ellethy1](https://github.com/Amr-Ellethy1)  
 - **LinkedIn**: [amr-khalid-319554325](https://www.linkedin.com/in/amr-khalid-319554325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
@@ -13,7 +16,7 @@
 
 ---
 
-###  المشاريع والتحديثات
+### Projects & Updates
 
 <table width="960px">
 
@@ -21,7 +24,7 @@
 
 <td valign="top" width="50%">
 
-####  Weekly Development Breakdown
+#### 🏊‍♂️ Weekly Development Breakdown
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
@@ -33,13 +36,13 @@
 
 <td valign="top" width="50%">
 
-####  أحدث المشاريع
+#### 🚀 Latest Projects
 
 <!-- recent_releases starts -->
-* <a href="#" target="_blank">موقع شخصي (Personal Portfolio Website) 🌐</a> – 2025-08-04  
-* <a href="#" target="_blank">سكريبتات أتمتة Python</a> – 2025-08-01  
-* <a href="#" target="_blank">تطبيق To-Do بـ JavaScript</a> – 2025-07-28  
-* <a href="#" target="_blank">مشروع C++ للمسابقات البرمجية</a> – 2025-07-20  
+* <a href="#" target="_blank">Personal Portfolio Website 🌐</a> – 2025-08-04  
+* <a href="#" target="_blank">Python Automation Scripts ⚙️</a> – 2025-08-01  
+* <a href="#" target="_blank">JavaScript To-Do App ✅</a> – 2025-07-28  
+* <a href="#" target="_blank">C++ Competitive Programming Project 💻</a> – 2025-07-20  
 <!-- recent_releases ends -->
 
 </td>
@@ -50,18 +53,18 @@
 
 <td valign="top" width="50%">
 
-####  تدوينات حديثة  
+#### 📝 Recent Blog Posts  
 <!-- blog starts -->
-* أضف روابط أو عناوين التدوينات هنا إن وجدت  
+* Add links or titles to your blog posts here  
 <!-- blog ends -->
 
 </td>
 
 <td valign="top" width="50%">
 
-####  ملفات أسبوع Trend Weekly  
+#### 📅 Trend Weekly  
 <!-- weekly starts -->
-* أضف هنا إذا كنت تنشر تدوينات أو ملخصات أسبوعية  
+* Add here if you publish weekly summaries or newsletters  
 <!-- weekly ends -->
 
 </td>
